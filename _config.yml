@@ -1,0 +1,28 @@
+name: kwikblogs
+favicon: null
+layout_spectrum: 0.7322458017151803
+typography_spectrum: 0.4877035478129983
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.45798003347590566
+  lightness: 0.46479871473275125
+  saturation: 0.43346616299822927
+  rhythmicContrast: 0.347140358062461
+purpose: []
